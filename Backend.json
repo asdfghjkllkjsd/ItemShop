@@ -5,8 +5,8 @@
     "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_138_Gnome"],
-    "price": 800
+    "itemGrants": [" Pickaxe_ID_074_SharpDresser"],
+    "price": 100
   },
   "daily3": {
     "itemGrants": ["AthenaCharacter:CID_170_Athena_Commando_F_Luchador"],
@@ -25,8 +25,8 @@
     "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_424_Athena_Commando_M_Vigilante"],
-    "price": 1500
+    "itemGrants": [" CID_515_Athena_Commando_M_BarbequeLarry"],
+    "price": 100
   },
   "featured2": {
     "itemGrants": ["AthenaCharacter:CID_423_Athena_Commando_F_Painter"],
