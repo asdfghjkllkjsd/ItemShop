@@ -1,12 +1,12 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_586_Athena_Commando_F_PunkDevil"],
-    "price": 1200
+    "itemGrants": ["CID_615_Athena_Commando_F_Bane"],
+    "price": 100
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_138_Gnome"],
-    "price": 800
+    "itemGrants": ["Pickaxe_ID_015_HolidayCandyCane"],
+    "price": 100
   },
   "daily3": {
     "itemGrants": ["AthenaCharacter:CID_170_Athena_Commando_F_Luchador"],
